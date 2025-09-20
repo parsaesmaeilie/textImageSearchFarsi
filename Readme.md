@@ -35,6 +35,7 @@ NumPy, Pandas
 Matplotlib / PIL (image visualization)
 
 📂 Project Structure
+
 ├── notebooks/            # Jupyter notebooks for experiments and prototyping
 │   └── demo.ipynb        # Example notebook to test search
 ├── src/                  # Core source code
