@@ -34,20 +34,19 @@ NumPy, Pandas
 
 Matplotlib / PIL (image visualization)
 
+
 📂 Project Structure
-
+```text
 ├── notebooks/            # Jupyter notebooks for experiments and prototyping
-
 │   └── demo.ipynb        # Example notebook to test search
-
 ├── src/                  # Core source code
-
 │   └── search.py         # Text-image correlation & retrieval
-
 ├── requirements.txt      # Dependencies
-
 └── README.md             # Project documentation
-
+``` 
+گگگ
+گگ
+گگ''
 
 ⚙️ Installation
 
